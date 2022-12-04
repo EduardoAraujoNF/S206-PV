@@ -1,0 +1,9 @@
+{
+  "name": "S206-PV",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
+}
